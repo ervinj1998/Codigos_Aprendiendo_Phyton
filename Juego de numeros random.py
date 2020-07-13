@@ -27,7 +27,9 @@ while intentos < 6:
 if respuesta == numero:
         intentos = str(intentos)
         print('ADIVINASTES !!!' +nombre+ ' en ' +intentos+ 'veces')
+        input()
 
 if respuesta != numero:
     numero = str(numero)
     print('lo siento no adivinastes, el numero era:'+ numero)
+    input()
