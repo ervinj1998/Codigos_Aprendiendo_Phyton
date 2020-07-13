@@ -1,0 +1,17 @@
+#Este programa hace chistes malo :V
+
+print('Bienvenido!!!!!')
+print('Sabes que sale con el cruze de un mono y un patin ? ')
+input()
+print('Un monopatin!!!!!! jajaja')
+print()
+print('Por que vuelan los pájaros pa\'l sur?')
+input()
+print('Por que caminando se tardarian muchisimo!!!')
+print()
+print('En que se parecen una familia, un bombero y un barco ?')
+input()
+print('En que el bombero y el barco tienen casco.')
+print()
+print('Y la familia? ', end='')
+print('-Bien, gracias.')
