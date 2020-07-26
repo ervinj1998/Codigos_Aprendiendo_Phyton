@@ -1,6 +1,6 @@
 #Este programa hace chistes malo :V
 
-print('Bienvenido!!!!!')
+print('********Bienvenido**********')
 print('Sabes que sale con el cruze de un mono y un patin ? ')
 input()
 print('Un monopatin!!!!!! jajaja')
