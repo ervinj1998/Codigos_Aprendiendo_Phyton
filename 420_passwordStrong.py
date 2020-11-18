@@ -82,7 +82,6 @@ class Solution:
                               lastChr) + 1)
 
             return ans
-
         n = len(s)
 
         if n == 0:
